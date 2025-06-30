@@ -12,3 +12,4 @@
 - Kagoshima
 - Kobe
 - Naha
+- Tokyo
