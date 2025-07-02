@@ -6,6 +6,7 @@
 - penguin
 - polar bear
 - panda
+- horse
 - elephant
 - Bernese Mountain Dog
 - lion
