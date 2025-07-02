@@ -16,3 +16,4 @@
 - shiba inu
 - Shiba
 - whale
+- Snake
