@@ -4,3 +4,5 @@
 - Coke
 - Ginger ale
 - Green tea
+- Sprite
+- SUPER DRY
