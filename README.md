@@ -13,3 +13,4 @@
 - Kobe
 - Naha
 - Tokyo
+- Yokohama
