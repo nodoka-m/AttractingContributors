@@ -17,3 +17,4 @@
 - Shiba
 - whale
 - Snake
+- Rabbit
