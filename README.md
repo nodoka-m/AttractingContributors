@@ -5,3 +5,5 @@
 - Ginger ale
 - Green tea
 - coffee
+- plum wine
+- tea with milk
