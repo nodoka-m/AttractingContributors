@@ -6,3 +6,7 @@
 - Green tea
 - Sprite
 - SUPER DRY
+- Masala Tea
+- coffee
+- plum wine
+- tea with milk
