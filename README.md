@@ -4,6 +4,7 @@
 - Coke
 - Ginger ale
 - Green tea
+- water
 - Sprite
 - SUPER DRY
 - Masala Tea
