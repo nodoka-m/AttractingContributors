@@ -7,6 +7,7 @@
 - Shirayuki (sake made by Konishi Shuzo)
 - 日本酒
 - chita
+- ginger ale
 - 梅酒
 - カフェオレ
 - Unfiltered sake
