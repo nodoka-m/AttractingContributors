@@ -1,5 +1,10 @@
-# What's a famous dish from your hometown? 有名な郷土料理はありますか？
+# Please indicate your favorite  drink.
 
-# List of dish
-- 
-- 
+# List of place
+- Coke
+- Ginger ale
+- Green tea
+- Masala Tea
+- coffee
+- plum wine
+- tea with milk
